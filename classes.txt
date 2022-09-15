@@ -1,0 +1,5 @@
+https://www.sanfoundry.com/java-mcqs-class-fundamental-declaring-objects/
+https://www.sanfoundry.com/java-questions-answers-entrance-exams/
+https://www.sanfoundry.com/java-questions-answers-constructor/
+https://www.sanfoundry.com/java-mcqs-constructors-garbage-collection/
+https://www.sanfoundry.com/java-mcqs-introduction-methods/
